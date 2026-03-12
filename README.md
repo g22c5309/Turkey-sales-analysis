@@ -96,7 +96,7 @@ Based on the analysis, several strategic recommendations can be made:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ecommerce-sales-analysis
