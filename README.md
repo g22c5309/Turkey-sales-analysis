@@ -75,7 +75,7 @@ Examines revenue contribution from returning customers versus first-time buyers 
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, several strategic recommendations can be made:
 
@@ -87,7 +87,7 @@ Based on the analysis, several strategic recommendations can be made:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Python**
 * **Pandas**
