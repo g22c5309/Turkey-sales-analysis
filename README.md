@@ -1,8 +1,5 @@
 # Turkey Sales Analysis
 
-Here is a **clean, professional `README.md`** you can paste directly into your repository on GitHub.
-It’s structured the way recruiters expect for a **data analytics portfolio project**.
-
 ---
 
 # E-Commerce Customer Behavior & Sales Analysis
